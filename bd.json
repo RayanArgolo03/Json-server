@@ -1,0 +1,104 @@
+{
+  "Instrutores": [
+    {
+      "Nome": "Nivaldo Arantes",
+      "Idade": "43",
+      "Telefone": "21989432205",
+      "Email": "nivaldo@gmail.com",
+      "id": 1
+    },
+    {
+      "Nome": "José Costa",
+      "Idade": "54",
+      "Telefone": "21987101981",
+      "Email": "josé@gmail.com",
+      "id": 2
+    },
+    {
+      "Nome": "Henrique Dias",
+      "Idade": "30",
+      "Telefone": "21985432205",
+      "Email": "henrique@gmail.com",
+      "id": 3
+    },
+    {
+      "Nome": "Lopes da Silva",
+      "Idade": "60",
+      "Telefone": "21929272205",
+      "Email": "lopese@gmail.com",
+      "id": 4
+    }
+  ],
+  "Alunos": [
+    {
+      "Nome": "Airton Guedes",
+      "Idade": "19",
+      "Telefone": "21989432205",
+      "Cpf": 1212349089,
+      "Email": "nivaldo@gmail.com",
+      "id": 1
+    },
+    {
+      "Nome": "Diogo Consceição",
+      "Idade": "18",
+      "Telefone": "21989432205",
+      "Cpf": 13185678990,
+      "Email": "nivaldo@gmail.com",
+      "id": 2
+    },
+    {
+      "Nome": "Rayan Barbosa",
+      "Idade": "19",
+      "Telefone": "21989432205",
+      "Cpf": 2033728423,
+      "Email": "nivaldo@gmail.com",
+      "id": 3
+    },
+    {
+      "Nome": "Guilherme Medon",
+      "Idade": "21",
+      "Telefone": "21989432205",
+      "Cpf": 34358190254,
+      "Email": "nivaldo@gmail.com",
+      "id": 4
+    },
+    {
+      "Nome": "Alexandre Santos",
+      "Idade": "21",
+      "Telefone": "21989432205",
+      "Cpf": 12952670438,
+      "Email": "nivaldo@gmail.com",
+      "id": 5
+    }
+  ],
+  "Planos": [
+    {
+      "Nome": "Básico",
+      "Custo": "50",
+      "Dias na Semana": "1",
+      "Benefícios": "Video Aulas",
+      "id": 1
+    },
+    {
+      "Nome": "Médio",
+      "Custo": "100",
+      "Dias na Semana": "3",
+      "Benefícios": "Video Aulas e Instrutor",
+      "id": 2
+    },
+    {
+      "Nome": "High",
+      "Custo": "180",
+      "Dias na Semana": "5",
+      "Benefícios": "Video Aulas, Intrutor e Personal",
+      "id": 3
+    },
+    {
+      "Nome": "Bodybuilder",
+      "Custo": "230",
+      "Dias na Semana": "7",
+      "Benefícios": "Video Aulas, Instrutor, Personal e Suplementação",
+      "id": 4
+    }
+  ]
+}
